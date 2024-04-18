@@ -1,3 +1,10 @@
+#Custom Ignore folders
+/golf_Data
+/Logs
+/Packages
+/UserSettings
+/ProjectSettings
+#Basic Stuff
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/

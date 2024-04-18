@@ -20,6 +20,6 @@ public class TakeScreenshotInEditor : ScriptableObject
  
         startNumber = number + 1;
  
-        Application.CaptureScreenshot(fileName + name + ".png");
+        ScreenCapture.CaptureScreenshot(fileName + name + ".png");
     }
 }
